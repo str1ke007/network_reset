@@ -14,3 +14,7 @@ For Windows only (if Python is installed for a user),
 C:\Users\(username)\AppData\Local\Programs\Python\Python27\python.exe network_reset.py
 C:\Users\(username)\AppData\Local\Programs\Python\Python37\python.exe network_reset.py
 ```
+
+OR
+
+Users can also run it through the given `.exe` file.
