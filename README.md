@@ -17,4 +17,4 @@ C:\Users\(username)\AppData\Local\Programs\Python\Python37\python.exe network_re
 
 OR
 
-Users can also run it through the given `.exe` file.
+Users can also run it through the given `.exe` file. To be run as administrator.
