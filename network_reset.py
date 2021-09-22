@@ -13,7 +13,6 @@ def network_reset():
     time.sleep(3)
     sp.call(["ipconfig", "/flushdns"])
     time.sleep(25.5)
-    print("[+] Network Reset Successfully")
 
 
 network_reset()
