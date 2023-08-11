@@ -1,7 +1,7 @@
 # network_reset
 This repository holds the Python network reset script.
 
-This python script can be run in both the Python versions 3.x **only!**
+This python script can run in Python version 3.x **only!**
 
 For Windows only (if Python is installed for all users),
 ```cmd
